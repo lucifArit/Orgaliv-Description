@@ -1,0 +1,293 @@
+# OrgaLiv — Organ Donation & Transplant Management Platform
+
+**Give Life. Find Hope.**
+
+OrgaLiv is a web-based organ donation and transplant management platform designed to connect users, organ donors, hospitals, and recipients through a centralized digital system. Its purpose is to make organ availability information easier to access and help organize the different stages of organ donation and transplantation.
+
+**Live Website:** https://aritwebtech.kesug.com/index.html
+
+**Linkdin Profie:** https://www.linkedin.com/in/arit-hazra-a76555366/
+
+---
+
+## 1. The Real-Life Problem
+
+Finding a suitable organ for a patient can be a challenging and stressful process for families. They may need to contact different hospitals, ask about the availability of a specific organ, and coordinate with medical institutions to understand the next steps.
+
+At the same time, hospitals need to manage organ inventory, donor information, recipient requests, verification procedures, appointments, and transplant records.
+
+When this information is maintained across separate systems or handled through manual communication, finding relevant information and tracking progress can become difficult.
+
+Organ donation and organ transplantation are also two different but connected processes. Donation involves registering donors, reviewing their information, and managing the donation process. Transplantation involves identifying potential options, handling recipient requests, reviewing cases, and recording transplant outcomes.
+
+**The challenge:** How can technology help users and hospitals connect more easily while keeping hospitals in control of verification and medical decisions?
+
+## 2. My Vision
+
+My vision behind OrgaLiv was to build a centralized platform that serves as a **digital bridge between users and hospitals**.
+
+Instead of focusing only on organ searching or donor registration, I wanted to bring two major workflows into one platform:
+
+- **Organ Donation:** Helping people register their intention to donate and allowing hospitals to manage donor verification, appointments, donation status, and organ inventory records.
+- **Organ Transplantation:** Helping users search for listed organ availability by location, submit recipient requests, and follow their request status while hospitals manage review, approval, and transplant records.
+
+The goal is to reduce the effort involved in finding information, organize communication, and make the overall process easier to understand and track.
+
+## 3. How OrgaLiv Solves the Problem
+
+OrgaLiv provides separate experiences for regular users and registered hospitals.
+
+**For users**, the platform offers organ searches, donor registration, recipient requests, personal dashboards, status tracking, notifications, and appointment-related information.
+
+**For hospitals**, it provides a dedicated dashboard to manage organ inventory, review donor and recipient requests, handle verification-related workflows, update statuses, and maintain transplant history.
+
+Rather than attempting to replace the hospital's work, OrgaLiv provides a shared digital space in which information and workflow updates can be organized.
+
+---
+
+## 4. Core Workflow One: Organ Donation
+
+This workflow is designed for people who want to pledge an organ for donation and for hospitals responsible for managing donor-related procedures.
+
+### Step 1 — User Registration
+
+A user creates an account on OrgaLiv and provides the information required by the registration process. The account allows the user to access personal dashboard features and manage relevant information.
+
+### Step 2 — Donor Registration
+
+The user submits donor-related details, including the organ they wish to pledge, relevant personal information, and other required information.
+
+The purpose is to record the user's donation intention in a structured format instead of leaving the information scattered across separate communication channels.
+
+### Step 3 — Hospital Selection
+
+The donor selects a registered hospital and provides the relevant details required by the platform.
+
+This establishes a connection between the donor and the selected hospital, allowing the hospital to review the submitted information and manage the next steps.
+
+### Step 4 — Hospital Verification
+
+The hospital manages the donor verification workflow. Depending on the process, this can involve reviewing the information provided, updating the verification status, and arranging an offline appointment.
+
+The platform helps record the progress, but it does not replace medical examinations, eligibility assessments, or decisions made by authorized healthcare professionals.
+
+### Step 5 — Appointment and Status Tracking
+
+Appointment-related information and donor status updates help users understand the current stage of their registration.
+
+The user can visit their personal dashboard to view the relevant donor information and status available on the platform.
+
+### Step 6 — Donation and Organ Inventory Management
+
+When the appropriate donation and hospital assessment procedures have been completed, the hospital can manage the corresponding organ record and update its inventory status.
+
+The organ inventory can include details such as:
+
+- Organ type
+- Blood group
+- Donor age, where applicable
+- Organ condition
+- Viability information
+- Assessment notes
+- Availability status
+
+These records help hospitals organize organ-related information within their dashboards.
+
+**The purpose of this workflow:** To organize the journey from donor registration and hospital selection to verification, appointment coordination, donation status updates, and hospital-managed inventory records.
+
+---
+
+## 5. Core Workflow Two: Organ Transplantation
+
+This workflow focuses on users who need an organ and the hospitals that manage recipient requests and transplantation-related records.
+
+### Step 1 — Search for an Organ
+
+A user opens the Find Organ section and searches for the specific organ they need.
+
+The platform helps users explore listed organ availability and registered hospitals by location. This can make it easier to identify hospitals with relevant inventory information without having to contact every institution individually just to begin the search.
+
+### Step 2 — Explore Hospital Information
+
+Users can browse the hospital information available through OrgaLiv and identify potential options based on the listed organ details and location.
+
+The information provides a starting point for contacting or coordinating with the relevant hospital.
+
+Listed availability is not a guarantee that an organ is medically suitable or available for a particular patient. Hospitals must verify the current status and determine suitability through the appropriate procedures.
+
+### Step 3 — Submit a Recipient Request
+
+A user can submit a request for the required organ through the platform.
+
+The request creates a structured record that can be managed through the recipient's dashboard and the hospital's request-management workflow.
+
+### Step 4 — Hospital Review and Approval
+
+The hospital reviews incoming recipient requests and manages the applicable decisions and status updates through its dashboard.
+
+This keeps the hospital responsible for reviewing requests and making the decisions required by its procedures.
+
+A platform request or status update does not itself establish eligibility, priority, or entitlement to an organ.
+
+### Step 5 — Request Tracking and Notifications
+
+Users can check the status of their submitted requests through the personal dashboard.
+
+OrgaLiv also supports notifications that help users and hospitals stay informed about relevant request updates and actions requiring attention.
+
+This reduces the need to rely entirely on repeated manual enquiries to understand the recorded progress.
+
+### Step 6 — Transplant Status Update
+
+When the hospital's transplant workflow progresses, the corresponding status can be updated in the system.
+
+The platform supports the recording of a completed transplant status, allowing the recipient's request information to reflect the recorded outcome.
+
+The actual transplant, including medical evaluation, organ allocation, and surgical procedures, remains under authorized healthcare professionals and applicable procedures.
+
+### Step 7 — Transplant History
+
+Completed transplant records can be maintained in the hospital's transplant history.
+
+These records help organize information about completed cases and distinguish them from organs that remain listed as available or requests that are still being processed.
+
+**The purpose of this workflow:** To organize the journey from organ search and hospital discovery to recipient requests, hospital review, status tracking, and completed transplant records.
+
+---
+
+## 6. How the Two Workflows Connect
+
+The two workflows are separate, but they are connected through hospital-managed organ inventory and status records.
+
+### Organ Donation Workflow
+
+Donor Registration → Hospital Selection → Verification → Appointment Coordination → Donation Process → Organ Inventory Update
+
+### Organ Transplantation Workflow
+
+Organ Search by Location → Hospital Discovery → Recipient Request → Hospital Review and Approval → Transplant Status Update → Transplant History
+
+The donation workflow focuses on the donor and the hospital's management of donation-related information. The transplantation workflow focuses on the recipient's request and the hospital's management of the transplantation process.
+
+When the appropriate donation and assessment procedures have been completed, the hospital can update the relevant inventory records. Those records can then inform the organ availability information presented through the platform.
+
+This connection is the foundation of OrgaLiv: **one platform that organizes both sides of the process without treating donation registration as an automatic match or a guarantee of transplantation.**
+
+---
+
+## 7. Main Features of OrgaLiv
+
+### Public Website and Navigation
+
+The homepage introduces the platform and provides access to the main sections, including Home, Hospitals, Find Organ, Login, and Registration.
+
+It explains the platform's purpose and provides entry points for users who want to donate or search for an organ.
+
+### User Registration and Login
+
+Users can register and log in to access features associated with their accounts. The personal dashboard organizes relevant information and available actions.
+
+### Hospital Registration
+
+Hospitals can register on the platform and access a dedicated hospital dashboard for managing their records and workflow activities.
+
+### Organ Search by Location
+
+Users can explore listed organ availability and hospital information by location, making the search process more organized and accessible.
+
+### Hospital Dashboard
+
+The hospital dashboard provides an overview of key information, including:
+
+- Available organs
+- Organ history
+- Recipient requests
+- Donor requests
+
+These summary cards help hospitals quickly understand the information recorded in the system.
+
+### Organ Inventory
+
+Hospitals can add and manage organ records, including relevant details about the organ, its condition, viability, assessment notes, and recorded status.
+
+### Recipient Request Management
+
+The platform supports the submission and tracking of recipient requests, with hospitals managing the review and relevant status updates.
+
+### Donor Management
+
+Donor-related records, verification statuses, appointment-related information, and donation status updates help organize the donor workflow.
+
+### Notifications
+
+Notifications help surface important updates and actions associated with the platform's workflows.
+
+### Personal Dashboard
+
+Users can access their profile and relevant donor or recipient information, check request statuses, and view available notifications and appointment-related information.
+
+### Transplant History
+
+The hospital can maintain records of completed transplants, helping distinguish completed cases from active requests and available inventory.
+
+---
+
+## 8. How OrgaLiv Helps Different Users
+
+**For people who want to donate:** The platform provides a structured way to submit donor information, select a hospital, and follow recorded verification and donation statuses.
+
+**For patients and recipients:** It provides a way to search listed organ availability by location, explore registered hospitals, submit recipient requests, and follow recorded updates.
+
+**For hospitals:** It brings inventory records, donor-related workflows, recipient requests, notifications, and transplant history into a dedicated dashboard.
+
+**For families and caregivers:** The platform can make the initial information-search process more organized by providing a central place to explore listed hospital and organ information.
+
+**For the wider community:** OrgaLiv demonstrates how a digital platform can help organize information and coordination around an important healthcare challenge.
+
+---
+
+## 9. Technology and Development
+
+OrgaLiv was developed using:
+
+- **HTML** — Page structure
+- **CSS** — Styling and responsive interface design
+- **JavaScript** — Client-side interactions and dynamic behaviour
+- **PHP** — Server-side processing and application workflows
+- **MySQL** — Database storage and management
+
+The project brings together frontend development, backend processing, database integration, user authentication, dashboard interfaces, inventory management, and multi-step workflows.
+
+Rather than being only a static informational website, OrgaLiv is designed around interactions between users, hospitals, and the records maintained throughout its workflows.
+
+---
+
+## 10. Project Scope and Responsibility
+
+OrgaLiv is designed to support information access and workflow coordination. It does not independently determine organ suitability, medical eligibility, recipient priority, or organ allocation.
+
+Hospital registration on the platform should not be interpreted as independent confirmation of a hospital's legal authorization. Real-world deployment would require appropriate hospital credential verification, privacy and security controls, reliable inventory updates, and compliance with applicable organ donation and transplantation regulations.
+
+The platform's listed information should be confirmed with the relevant hospital before any medical or logistical decision is made.
+
+These boundaries are important because the purpose of OrgaLiv is to support communication and organization, while medical decisions and transplantation remain the responsibility of authorized professionals and institutions.
+
+---
+
+## 11. The Vision Behind OrgaLiv
+
+OrgaLiv was built around a simple idea: people looking for organ availability information and people willing to donate should have a more organized way to connect with hospitals.
+
+By bringing organ donation and transplantation workflows into one platform, the project explores how technology can help users discover information, submit requests, follow recorded progress, and interact with hospital-managed processes.
+
+The long-term vision is to make coordination more accessible, improve the organization of information, and reduce unnecessary effort during an already difficult time for patients and families.
+
+**OrgaLiv — Give Life. Find Hope.**
+
+A platform built to explore how technology can connect people, organize healthcare workflows, and support a meaningful real-world purpose.
+
+### Explore OrgaLiv
+
+- **Live Website:** https://aritwebtech.kesug.com/index.html
+- **Linkdin Profile:** https://www.linkedin.com/in/arit-hazra-a76555366/
+
